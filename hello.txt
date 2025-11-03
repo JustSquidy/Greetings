@@ -1,8 +1,5 @@
 Hello
 "bonjour" 
-"hola" 
-"hola" 
-"hola" 
-"help?" 
-hello 
-hola 
+hola
+hallo
+guten tag
